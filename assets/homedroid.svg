@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title">
+<title id="title">Homedroid — your old phone, now a home server. No root required.</title>
+<rect x="1" y="1" width="1198" height="198" rx="16" fill="#0c191e" stroke="#28454c"/>
+<rect x="1" y="27" width="4" height="146" rx="2" fill="#75f5bd"/>
+<g font-family="monospace"><text x="38" y="42" font-size="13" fill="#75f5bd">FEATURED PROJECT / ANDROID + SELF-HOSTING</text>
+<text x="36" y="101" font-family="sans-serif" font-size="42" font-weight="700" fill="#edf8f4">Homedroid</text>
+<text x="38" y="142" font-size="18" fill="#b1c8cd">Your old phone. Your new home server.</text>
+<text x="38" y="174" font-size="13" fill="#819ea5">SSH · WEB · MEDIA · PHOTOS · AUTOMATION</text>
+<rect x="992" y="40" width="170" height="35" rx="17" fill="#16372e"/><text x="1018" y="63" font-size="13" fill="#75f5bd">NO ROOT NEEDED</text>
+<text x="1032" y="153" font-size="42" fill="#75f5bd">↗</text></g></svg>
