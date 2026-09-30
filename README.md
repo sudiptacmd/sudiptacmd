@@ -21,7 +21,6 @@ sudiptacmd@github:~$ cat now.txt
   role      Software Engineer II / Technical Lead
   team      Expressive Communications Ltd.
   focus     Full stack systems, agentic AI, Android & self-hosting
-  building  Homedroid + Seltiv SLMS
 ```
 
 ### `02` / ls projects/
@@ -40,7 +39,24 @@ A self-hosted **Student Lifecycle Management System** for admissions, attendance
 
 [Explore Seltiv SLMS ↗](https://github.com/sudiptacmd/seltiv-slms#readme) &nbsp; · &nbsp; [Watch AI in action ↗](https://github.com/sudiptacmd/seltiv-slms/blob/main/video/ai-live/seltiv-ai-live.mp4) &nbsp; · &nbsp; [All walkthroughs ↗](https://github.com/sudiptacmd/seltiv-slms#watch-it-work)
 
-### `03` / cat stack.txt
+### `03` / client work
+
+Selected websites and applications I've built for clients:
+
+| Project | Work |
+|---|---|
+| [Promusic Bangladesh ↗](https://www.promusic.com.bd/) | E-commerce development |
+| [The Mall ↗](https://www.themallbd.com/) | E-commerce development |
+| [ShowbizFace ↗](https://www.showbizface.com/) | Web and mobile app development |
+| [EventGhor ↗](https://www.eventghor.com/) | SaaS development |
+| [ICBC Project ↗](https://www.icbcproject.org/) | NGO web app development |
+| [Bangladesh ECD Network ↗](https://www.ben-ecd.net/) | NGO web app development |
+| [Expressive Communications Ltd. ↗](https://www.expressivebd.com/) | Company website development |
+| [Keerti Creations ↗](https://www.keerticreations.com/) | Company website development |
+
+[More client projects on my portfolio →](https://sudipta.seltiv.com/#projects)
+
+### `04` / cat stack.txt
 
 | Area | Tools I work with |
 |---|---|
@@ -50,14 +66,13 @@ A self-hosted **Student Lifecycle Management System** for admissions, attendance
 | **Infrastructure** | Linux · Docker · Kubernetes · Ansible · Nginx · GitHub Actions |
 | **Cloud & data** | AWS · GCP · Azure · PostgreSQL · MongoDB · Redis |
 
-### `04` / more about me
+### `05` / more about me
 
-- **Client work:** e-commerce, internal tools, interactive 3D websites, and production infrastructure. [Explore the projects on my portfolio →](https://sudipta.seltiv.com/#projects)
 - **Education:** B.Sc. in Computer Science & Engineering at BRAC University, 2022–2026. Software Development & AI specialization; Vice Chancellor's Excellence Awardee.
 - **Research:** visual question answering for NCTB textbooks.
 - **Also built:** [ShelluMama](https://github.com/sudiptacmd/ShelluMama), a Unix shell in C with pipes, redirection, command history, and signal handling.
 
-### `05` / public signals
+### `06` / public signals
 
 <img src="assets/stats.svg" width="100%" alt="Public GitHub statistics for sudiptacmd, refreshed daily. Exact values are available below.">
 
