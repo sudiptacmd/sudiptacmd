@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Sudipta Goswami — Software Engineer, AI Engineer, Full Stack Developer, Kotlin Developer.">
+  <img src="assets/profile-header.svg" width="100%" alt="Sudipta Goswami — Software Engineer, AI Engineer, Full Stack Developer, Kotlin Developer.">
 </p>
 
 <p align="center">
