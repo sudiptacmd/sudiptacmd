@@ -37,7 +37,7 @@ A self-hosted **Student Lifecycle Management System** for admissions, attendance
 
 **Built-in AI:** describe marking changes in English, বাংলা, or Banglish; review the proposal and approve it. Powered by a local Ollama model, with approval history and validated allocations.
 
-[Explore Seltiv SLMS ↗](https://github.com/sudiptacmd/seltiv-slms#readme) &nbsp; · &nbsp; [Watch AI in action ↗](https://github.com/sudiptacmd/seltiv-slms/blob/main/video/ai-live/seltiv-ai-live.mp4) &nbsp; · &nbsp; [All walkthroughs ↗](https://github.com/sudiptacmd/seltiv-slms#watch-it-work)
+[Visit Seltiv SLMS ↗](https://slms.seltiv.com) &nbsp; · &nbsp; [Source code ↗](https://github.com/sudiptacmd/seltiv-slms#readme) &nbsp; · &nbsp; [Watch AI in action ↗](https://github.com/sudiptacmd/seltiv-slms/blob/main/video/ai-live/seltiv-ai-live.mp4) &nbsp; · &nbsp; [All walkthroughs ↗](https://github.com/sudiptacmd/seltiv-slms#watch-it-work)
 
 ### `03` / client work
 
