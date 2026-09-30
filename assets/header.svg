@@ -1,33 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">Sudipta Goswami — software engineering, AI, full stack, and Kotlin</title>
-<desc id="desc">A midnight terminal with mint green accents and an animated circuit connecting a phone to a home server.</desc>
-<defs>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#182c32" stroke-width="0.6"/></pattern>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091217"/><stop offset="1" stop-color="#11282c"/></linearGradient>
- <linearGradient id="line"><stop stop-color="#75f5bd"/><stop offset="1" stop-color="#78bfff"/></linearGradient>
-</defs>
-<rect width="1200" height="420" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="420" rx="20" fill="url(#grid)"/>
-<path d="M24 53H1176" stroke="#294149"/>
-<g fill="#789197"><circle cx="30" cy="27" r="5" fill="#75f5bd"/><circle cx="49" cy="27" r="5"/><circle cx="68" cy="27" r="5"/></g>
-<g font-family="monospace"><text x="92" y="32" fill="#90a9ae" font-size="13">sudiptacmd / personal workspace</text><text x="1040" y="32" fill="#75f5bd" font-size="12">EST. 2019</text>
-<text x="54" y="111" fill="#75f5bd" font-size="15">$ whoami</text>
-<text x="50" y="179" fill="#edf8f4" font-family="sans-serif" font-size="53" font-weight="700">Sudipta Goswami</text>
-<text x="54" y="221" fill="#b1c8cd" font-size="18">Software engineer. AI engineer. Builder.</text>
-<text x="54" y="282" fill="#75f5bd" font-size="15">full stack / kotlin / AI / infrastructure</text>
-<text x="54" y="356" fill="#819ea5" font-size="14">~/sudiptacmd</text><text x="170" y="356" fill="#75f5bd" font-size="14">❯</text>
-<rect x="191" y="342" width="9" height="17" fill="#75f5bd"><animate attributeName="opacity" values="1;1;0;0;1" dur="2s" repeatCount="indefinite"/></rect>
-</g>
-<g transform="translate(837 107)">
-<circle cx="139" cy="100" r="113" fill="none" stroke="#25464b" stroke-dasharray="3 9"/>
-<rect x="7" y="57" width="65" height="117" rx="12" fill="#0b171e" stroke="#75f5bd" stroke-width="2"/>
-<path d="M29 68H50M29 163H50" stroke="#75f5bd" stroke-width="2"/>
-<path d="M23 104L34 114L23 124M40 125H55" fill="none" stroke="#75f5bd" stroke-width="2"/>
-<path d="M74 115H125V79H178" fill="none" stroke="url(#line)" stroke-width="2"/>
-<circle r="4" fill="#75f5bd"><animateMotion path="M74 115H125V79H178" dur="3s" repeatCount="indefinite"/></circle>
-<g fill="#0b171e" stroke="#78bfff" stroke-width="2"><rect x="180" y="50" width="93" height="45" rx="7"/><rect x="180" y="108" width="93" height="45" rx="7"/></g>
-<g fill="#75f5bd"><circle cx="195" cy="72" r="3"/><circle cx="195" cy="130" r="3"/></g>
-<path d="M210 72H256M210 130H256" stroke="#42616e" stroke-width="3"/>
-<text x="22" y="222" fill="#819ea5" font-family="monospace" font-size="12">OLD PHONE → NEW PURPOSE</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sudipta Goswami — Software Engineer and AI Engineer</title>
+  <desc id="desc">A minimal dark terminal banner. Sudipta Goswami, Software Engineer, AI Engineer, Full Stack Developer, Kotlin Developer. Dhaka, Bangladesh. sudipta.seltiv.com.</desc>
+  <rect x="1" y="1" width="1198" height="358" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 48H1199" stroke="#30363d"/>
+  <g fill="#484f58">
+    <circle cx="28" cy="25" r="4"/>
+    <circle cx="44" cy="25" r="4"/>
+    <circle cx="60" cy="25" r="4"/>
+  </g>
+  <g font-family="'DejaVu Sans Mono', monospace">
+    <text x="87" y="30" fill="#8b949e" font-size="13">~/sudiptacmd</text>
+    <text x="52" y="102" fill="#7ee2b8" font-size="15">$ whoami</text>
+  </g>
+  <text x="49" y="174" fill="#f0f6fc" font-family="'DejaVu Sans', sans-serif" font-size="59" font-weight="600" letter-spacing="-2">Sudipta Goswami</text>
+  <g font-family="'DejaVu Sans Mono', monospace">
+    <text x="53" y="222" fill="#c9d1d9" font-size="19">Software Engineer / AI Engineer</text>
+    <text x="53" y="252" fill="#8b949e" font-size="17">Full Stack Developer / Kotlin Developer</text>
+    <path d="M53 280H1147" stroke="#21262d"/>
+    <text x="53" y="320" fill="#8b949e" font-size="14">Dhaka, Bangladesh</text>
+    <text x="937" y="320" fill="#7ee2b8" font-size="14">sudipta.seltiv.com</text>
+  </g>
+  <rect x="1090" y="144" width="17" height="30" rx="1" fill="#7ee2b8">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.45;0.5;0.95;1" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
 </svg>
