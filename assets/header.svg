@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">Sudipta Goswami — software, systems, and second lives for old hardware</title>
+<title id="title">Sudipta Goswami — software engineering, AI, full stack, and Kotlin</title>
 <desc id="desc">A midnight terminal with mint green accents and an animated circuit connecting a phone to a home server.</desc>
 <defs>
  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#182c32" stroke-width="0.6"/></pattern>
@@ -13,8 +13,8 @@
 <g font-family="monospace"><text x="92" y="32" fill="#90a9ae" font-size="13">sudiptacmd / personal workspace</text><text x="1040" y="32" fill="#75f5bd" font-size="12">EST. 2019</text>
 <text x="54" y="111" fill="#75f5bd" font-size="15">$ whoami</text>
 <text x="50" y="179" fill="#edf8f4" font-family="sans-serif" font-size="53" font-weight="700">Sudipta Goswami</text>
-<text x="54" y="221" fill="#b1c8cd" font-size="18">Software. Systems. Things worth building.</text>
-<text x="54" y="282" fill="#75f5bd" font-size="15">android / self-hosting / web / unix</text>
+<text x="54" y="221" fill="#b1c8cd" font-size="18">Software engineer. AI engineer. Builder.</text>
+<text x="54" y="282" fill="#75f5bd" font-size="15">full stack / kotlin / AI / infrastructure</text>
 <text x="54" y="356" fill="#819ea5" font-size="14">~/sudiptacmd</text><text x="170" y="356" fill="#75f5bd" font-size="14">❯</text>
 <rect x="191" y="342" width="9" height="17" fill="#75f5bd"><animate attributeName="opacity" values="1;1;0;0;1" dur="2s" repeatCount="indefinite"/></rect>
 </g>
