@@ -80,12 +80,12 @@ Selected websites and applications I've built for clients:
 <summary>Open the plain-text stats</summary>
 
 <!-- STATS:START -->
-Updated 2026-10-22 (UTC). Public data only.
+Updated 2026-10-23 (UTC). Public data only.
 
-- Days On Github: **2,555**
+- Days On Github: **2,556**
 - Public Repos: **16**
-- Stars Earned: **71**
-- Followers: **6**
+- Stars Earned: **72**
+- Followers: **8**
 
 Joined 2019-10-24. Stars count owned public repositories, excluding forks.
 <!-- STATS:END -->
